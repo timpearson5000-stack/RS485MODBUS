@@ -19,3 +19,6 @@ Features
 
     USB 2.0 to TTL RS485 Serial Converter Adapter FTDI FT232RL SN75176 is required.
 
+
+Also  Taiyedq tac7300c-ct modbus power meter software for Windows.
+
